@@ -1,4 +1,4 @@
 #!/usr/bin/python
-print("dummy python file")
+print("dummy py thon file")
 print("doing nothing")
 print("doing nothing")
