@@ -5,3 +5,5 @@ print("doing nothinssg ever")
 print("doing nothing agaiccc")
 
 print("my commit ")
+
+exec fwefw
